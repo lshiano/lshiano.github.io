@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lshiano.github.io/sitemap.html.gz
+Sitemap: https://lshiano.github.io/app/sitemap.html.gz
+Sitemap: https://lshiano.github.io/assets/sitemap.html.gz
+Sitemap: https://lshiano.github.io/css/sitemap.html.gz
+Sitemap: https://lshiano.github.io/includes/sitemap.html.gz
+Sitemap: https://lshiano.github.io/item/sitemap.html.gz
+Sitemap: https://lshiano.github.io/src/sitemap.html.gz
